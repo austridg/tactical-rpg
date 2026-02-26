@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="arena/arena.vcxproj" Id="4e247840-dc04-4b25-a579-b7ceed9a909e" />
+</Solution>
