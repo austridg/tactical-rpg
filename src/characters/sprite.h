@@ -3,7 +3,7 @@
 #include <string>
 
 #include "raylib.h"
-#include "../systems/draw/animation.h"
+#include "../Systems/Draw/Animation.h"
 
 class Sprite {
 private:
